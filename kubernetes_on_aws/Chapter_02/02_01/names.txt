@@ -1,3 +1,6 @@
-account number:
-region:
-cluster name:
+account number: 
+region: 
+cluster name: 
+user arn: 
+
+cluster vpc id: 
