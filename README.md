@@ -1,2 +1,2 @@
-# learning_kubernetes
-Kubernetes Operations (LinkedIn)
+# Learning Kubernetes
+Kubernetes Operations 
